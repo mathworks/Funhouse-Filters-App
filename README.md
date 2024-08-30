@@ -35,7 +35,7 @@ This module assumes no prerequisite knowledge.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=Funhouse.prj)  link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loaded and you can get you started.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=Funhouse.prj)  link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loaded and you can get you started.
 
 ### **On Desktop:**
 
@@ -49,7 +49,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 MATLAB® is used throughout. Tools from the [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used*.*
 
-## [**ScriptName.mlx**](ScriptName.mlx) 
+## [**Funhouse.prj**](Funhouse.prj) 
 | ![image_2.png](Images/image_2.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br>   |
 | :-- | :-- | :-- |
 
