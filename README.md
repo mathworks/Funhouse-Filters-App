@@ -1,7 +1,7 @@
 
 # Funhouse Filters App
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=Funhouse Filters.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=Funhouse_Filters.prj)
 
 ![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FREPO_NAME%2Frelease%2FImages%2FTestedWith.json)
 
@@ -49,7 +49,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 MATLAB® is used throughout. Tools from the [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used*.*
 
-## [**Funhouse.prj**](Funhouse.prj) 
+## [**Funhouse_Filters.prj**](Funhouse_Filters.prj) 
 | ![image_2.png](Images/image_2.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br>   |
 | :-- | :-- | :-- |
 
