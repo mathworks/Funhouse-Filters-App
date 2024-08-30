@@ -19,7 +19,7 @@ This curriculum module contains an interactive [MATLAB® App](https://www.mathwo
 You can use this app as a demonstrations in lectures, K\-12 outreach activities. This module covers image processing.
 
 
- Get started with the MATLAB App by installing it into your Apps. 
+ Get started with the MATLAB App by downloading the project file and installing Funhouse Filter App into your Apps. 
 
 ## Contact Us
 
@@ -35,11 +35,11 @@ This module assumes no prerequisite knowledge.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=PROJECTNAME.prj)  link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loadedand you can get you started.
+Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=Funhouse.prj)  link to download the App. You will be prompted to log in or create a MathWorks account. The App will be loaded and you can get you started.
 
 ### **On Desktop:**
 
-Download or clone this App. Open MATLAB, navigate to the folder containing these scripts and double\-click on App. You will be prompted to install the App into your Apps. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on Funhouse.prj. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  ![image_1.png](Images/image_1.png) **Add-Ons** > **Get Add-Ons**. 
