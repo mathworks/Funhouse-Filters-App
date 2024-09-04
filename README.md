@@ -16,7 +16,7 @@ This curriculum module contains an interactive [MATLAB® App](https://www.mathwo
 
 ## Background
 
-You can use this app as a demonstrations in lectures, K\-12 outreach activities. This module covers image processing.
+You can use this app as a demonstration in lectures, K\-12 outreach activities. This module covers image processing.
 
 
  Get started with the MATLAB App by downloading the project file and installing Funhouse Filter App into your Apps. 
