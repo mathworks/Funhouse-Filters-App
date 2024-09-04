@@ -39,7 +39,7 @@ Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/gl
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on Funhouse.prj. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on (Funhouse_Filters.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  ![image_1.png](Images/image_1.png) **Add-Ons** > **Get Add-Ons**. 
