@@ -49,7 +49,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 MATLAB® is used throughout. Tools from the [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used*.*
 
-## [**Funhouse Filters.mlappinstall**](Funhouse Filters.mlappinstall) 
+## [**Funhouse_Filters.mlappinstall**].(Funhouse_Filters.mlappinstall). 
 | ![image_2.png](Images/image_2.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br>   |
 | :-- | :-- | :-- |
 
