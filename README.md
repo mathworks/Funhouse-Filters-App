@@ -39,7 +39,7 @@ Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/gl
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on (Funhouse_Filters.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on (Funhouse Filters.mlappinstall). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  ![image_1.png](Images/image_1.png) **Add-Ons** > **Get Add-Ons**. 
@@ -49,7 +49,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 MATLAB® is used throughout. Tools from the [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used*.*
 
-## [**Funhouse_Filters.prj**](Funhouse_Filters.prj) 
+## [**Funhouse Filters.mlappinstall**](Funhouse Filters.mlappinstall) 
 | ![image_2.png](Images/image_2.png) <br>  | **In this app, users will...** <br> <br>-  Load images or take selfies <br> <br>-  Apply various image effects to manipulate the images <br> <br>-  Save images with effects <br>  | **Academic disciplines** <br> <br>-  Image Processing <br>   |
 | :-- | :-- | :-- |
 
