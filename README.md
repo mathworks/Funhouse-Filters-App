@@ -1,6 +1,6 @@
 
 # Funhouse Filters App
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=WynterJ/funfilters&project=https://github.com/WynterJ/funfilters/blob/main/Funhouse.prj&file=Funhouse_Filters.mlapp)
+
 
 **Curriculum Module**
 
