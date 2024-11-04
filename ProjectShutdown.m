@@ -1,2 +1,2 @@
-% Close the StartUp app if still open:
+% Close the Funhouse_Filters app if still open:
 delete(findall(groot,'Name','Funhouse_Filters'))
