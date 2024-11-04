@@ -15,7 +15,7 @@ This curriculum module contains an interactive [MATLAB® App](https://www.mathwo
 
 You can use this app as a demonstration in lectures, K\-12 outreach activities. This module covers image processing.
 
-
+![image_2.png](Images/image_2.png)
 
 ## Contact Us
 
