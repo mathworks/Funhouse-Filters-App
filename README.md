@@ -31,7 +31,7 @@ This module assumes no prerequisite knowledge.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=WynterJ/funfilters&project=https://github.com/WynterJ/funfilters/blob/main/Funhouse.prj) link to access the App. You will be prompted to log in or create a MathWorks account. The App will load and you can get you started.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Funhouse-Filters-App&project=Funhouse.prj&file=Funhouse_Filters.mlapp) link to access the App. You will be prompted to log in or create a MathWorks account. The App will load and you can get you started.
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  ![image_1.png](Images/image_1.png) **Add-Ons** > **Get Add-Ons**. 
