@@ -54,7 +54,7 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 Looking for more? Find an issue? Have a suggestion? Please contact the [STEM Outreach Team](http://stemoutreach@groups.mathworks.com). 
 
 
- *©* Copyright 2024 The MathWorks™, Inc
+ *©* Copyright 2024 The MathWorks, Inc
 
 
 
