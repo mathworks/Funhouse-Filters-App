@@ -39,7 +39,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 ## Products
 
-MATLAB® is used throughout. Tools from the [MATLAB® Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox™](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used*.*
+MATLAB® is used throughout. Tools from the [MATLAB® Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams?s_tid=srchtitle_support_results_1_webcam%20support%20package) are used frequently as well. The [edge](https://www.mathworks.com/help/images/ref/edge.html) function from the  [Image Processing Toolbox™](https://www.mathworks.com/products/image-processing.html?s_tid=srchtitle_site_search_1_image%20processing) is used.
 
 
 # License
