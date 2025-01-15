@@ -9,6 +9,7 @@ _Created with R2024a. Compatible with R2024a and later releases._
 # Information
 
  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Funhouse-Filters-App&project=Funhouse.prj&file=Funhouse_Filters.mlapp)
+
 This curriculum module contains an interactive [MATLAB® App](https://www.mathworks.com/help/matlab/creating_guis/apps-overview.html) that allows users to add various effects to images.
 
 
