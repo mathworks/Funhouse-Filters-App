@@ -21,7 +21,7 @@ You can use this app as a demonstration in lectures, K\-12 outreach activities. 
 
 ## Contact Us
 
- Contact the [STEM Outreach Team](http://stemoutreach@groups.mathworks.com) if you would like to provide feedback, or if you have a question.
+ Contact the [STEM Outreach Team](mailto:stemoutreach@groups.mathworks.com) if you would like to provide feedback, or if you have a question.
 
 
 ## Prerequisites
@@ -53,7 +53,7 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [STEM Outreach Team](mailto://stemoutreach@groups.mathworks.com). 
+Looking for more? Find an issue? Have a suggestion? Please contact the [STEM Outreach Team](mailto:stemoutreach@groups.mathworks.com). 
 
 
  *©* Copyright 2024 The MathWorks, Inc
